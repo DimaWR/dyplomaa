@@ -1,0 +1,43 @@
+{
+  "name": "dyplomaa",
+  "version": "0.1.0",
+  "description": "Site Generator",
+  "main": "index",
+  "bin": "./bin/blogo",
+  "dependencies": {
+    "async": "~2.0.0",
+    "colors": "~1.1.2",
+    "connect": "~3.4.1",
+    "connect-power-route": "0.0.1",
+    "jade": "~1.11.0",
+    "marked": "^0.3.5",
+    "minimist": "~1.2.0",
+    "path-to-regexp": "~1.3.0",
+    "underscore": "~1.8.3",
+    "yamljs": "~0.2.7"
+  },
+  
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dimawr/dyplomaa.git"
+  },
+  "keywords": [
+    "simple",
+    "site",
+    "dimawr",
+    "nodejs"
+  ],
+  
+  
+  "author": "dimawr",
+  "license": "None",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/dimawr/dyplomaa"
+}

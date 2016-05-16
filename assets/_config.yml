@@ -1,0 +1,24 @@
+port: 4000
+
+theme: default
+
+author: 
+
+deploy:
+ type: github
+ repo: 
+ branch: 
+ message: Dyplomaa deploy
+
+social:
+ twitter: 
+ github: 
+ weibo: 
+
+comments: true
+duoshuo_shortname: dyplomaa
+
+blogName: Dyplomaa!
+
+blogUrl: 
+
